@@ -11,7 +11,7 @@ Follow these steps to set up and run the project locally:
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/yourusername/your-project.git
+   git clone https://github.com/2022mt13151/2022mt13151-AI-ChatBot-Assignment.git
    ```
 
 2. Navigate to the project directory:
