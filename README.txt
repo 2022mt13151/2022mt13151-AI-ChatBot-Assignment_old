@@ -1,4 +1,4 @@
-Certainly! Below is an example of a README file containing installation and execution instructions for your project. Please customize it according to your project's specific requirements and structure.
+Certainly! Below is an example of a README file containing installation and execution instructions for 2022mt13151-AI-ChatBot-Assignment project. Please customize it according to 2022mt13151-AI-ChatBot-Assignment project's specific requirements and structure.
 
 ```markdown
 # Chatbot with OpenAI API
@@ -9,14 +9,14 @@ This project is a custom conversational AI agent developed using OpenAI APIs. It
 
 Follow these steps to set up and run the project locally:
 
-1. Clone the repository to your local machine:
+1. Clone the repository to 2022mt13151-AI-ChatBot-Assignment local machine:
    ```bash
    git clone https://github.com/2022mt13151/2022mt13151-AI-ChatBot-Assignment.git
    ```
 
 2. Navigate to the project directory:
    ```bash
-   cd your-project
+   cd 2022mt13151-AI-ChatBot-Assignment
    ```
 
 3. Install the required dependencies for the frontend (React):
@@ -35,11 +35,11 @@ Follow these steps to set up and run the project locally:
    - Sign up for an account on the [OpenAI website](https://platform.openai.com/).
    - Visit the API keys page and create a new key. Copy the secret key.
 
-6. Configure your environment variables:
+6. Configure 2022mt13151-AI-ChatBot-Assignment environment variables:
    - Create a `.env` file in the `backend` directory.
-   - Add your OpenAI API key to the `.env` file:
+   - Add 2022mt13151-AI-ChatBot-Assignment OpenAI API key to the `.env` file:
      ```
-     OPENAI_API_KEY=your-api-key-here
+     OPENAI_API_KEY=api-key-here //Key Removed due to privacy issue 
      ```
 
 ## Execution
