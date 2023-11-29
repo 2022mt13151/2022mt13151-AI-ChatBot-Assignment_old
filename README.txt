@@ -79,4 +79,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ```
 
-Please replace `"https://github.com/2022mt13151/2022mt13151-AI-ChatBot-Assignment.git"` with the actual URL of your Git repository and customize the content as needed. This README file provides a basic structure for installation and execution instructions, but you can add more details about your project, dependencies, and usage as necessary.
+This README file provides a basic structure for installation and execution instructions, but you can add more details about your project, dependencies, and usage as necessary.
